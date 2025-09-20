@@ -8,14 +8,13 @@
 
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 ### Data Sources
 
 <img width="502" height="452" alt="266867469-5ebedeb8-65e4-4f09-a2a5-0699119f5ff7" src="https://github.com/user-attachments/assets/4b764c91-edf2-4b2a-b074-b4b0aef69f10" />
-
-
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
@@ -74,6 +73,13 @@ I had to remove all zero values from budget and revenue columns because they wou
 1. SQL for Businesses by werty.
 2. [stackoverflow](https://stack.com)
 
+😄
 
+💻
 
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+|Python|SQL|
 
+`column_1`
