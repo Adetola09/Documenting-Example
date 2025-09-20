@@ -13,6 +13,10 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### Data Sources
 
+<img width="502" height="452" alt="266867469-5ebedeb8-65e4-4f09-a2a5-0699119f5ff7" src="https://github.com/user-attachments/assets/4b764c91-edf2-4b2a-b074-b4b0aef69f10" />
+
+
+
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
 ### Tools
